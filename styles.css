@@ -1,0 +1,10 @@
+input, textarea, button {
+    display: block;
+    margin-bottom: 15px;
+}
+
+body {
+    display: grid;
+    place-content: center;
+    height: 90vh;
+}
